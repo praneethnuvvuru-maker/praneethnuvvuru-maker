@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Praneeth
 
-<!--
-**praneethnuvvuru-maker/praneethnuvvuru-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about building real-world software using AI, backend, and web technologies.
 
-Here are some ideas to get you started:
+### 🔭 What I'm Working On
+- AI-based applications
+- Full-stack web projects
+- Improving backend and deployment skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+Python | JavaScript | TypeScript | Machine Learning (Basics) | FastAPI | Node.js | Git | SQL
+
+### 📌 Projects
+- 🚖 Cab Share App for VIT Students  
+  A full-stack app to help students share rides safely.  
+  👉 https://github.com/praneethnuvvuru-maker/cab-share-app
+
+- 🤖 AI Blog Platform  
+  Blog app with AI-assisted content generation.  
+  👉 https://github.com/praneethnuvvuru-maker/ai-blog
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/
+nkpraneeth
+- Email: praneeth.nuvvuru@gmail.com
+
+I'm actively looking for **Summer Internship opportunities** in Software Development / AI / Backend.
